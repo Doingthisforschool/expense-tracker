@@ -4,8 +4,7 @@
   padding: 0;
 }
 
-html,
-body {
+html, body {
   background: #f8faf8;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
